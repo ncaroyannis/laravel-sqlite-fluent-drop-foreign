@@ -1,5 +1,5 @@
 {
-    "name": "exolnet/laravel-sqlite-fluent-drop-foreign",
+    "name": "ncaroyannis/laravel-sqlite-fluent-drop-foreign",
     "description": "Add a fluent dropForeign when using sqlite database",
     "keywords": [
         "exolnet",
